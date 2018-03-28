@@ -13,7 +13,10 @@ export default new Vuex.Store({
     ]
   },
   getters: {
-    countLinks: state => {
+    // countLinks: state => {
+    //   return state.links.length
+    // }
+    countLinks (state) {
       return state.links.length
     }
   },
