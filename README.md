@@ -3,10 +3,10 @@ vuex single exemple
 
 1. Add static data
 2. Mutations on static data
-3. Symchronous action calling mutations
+3. Synchronous action calling mutations
 4. Asynchronous actions calling mutattions
-<br>
 
+<br>
 
 __To try this:__
 
